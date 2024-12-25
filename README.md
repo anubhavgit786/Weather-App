@@ -21,5 +21,5 @@ A React-based weather dashboard application that allows users to fetch and displ
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/weather-dashboard.git
+   git clone https://github.com/anubhavgit786/Weather-App.git
    cd weather-dashboard
